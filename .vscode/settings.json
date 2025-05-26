@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "python.defaultInterpreterPath": "C:/Users/Ubiquify Digital/.conda/envs/testopenai/python.exe",
+  // "python.terminal.activateEnvironment": true
+}

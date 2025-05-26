@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "question": "string",
+      "options": [
+        "string",
+        "string",
+        "string",
+        "string"
+      ],
+      "correct_answer": "string",
+      "explanation": "string (optional)"
+    }
+  ]
+}

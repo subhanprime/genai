@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: mcqgen
+Version: 0.1
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python_dotenv
+Requires-Dist: PyPDF2
+Dynamic: requires-dist
