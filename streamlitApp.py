@@ -10,8 +10,8 @@ from langchain.callbacks import get_openai_callback
 from src.mcqGenrators.mcqGen import generate_evaluate_chain
 from src.mcqGenrators.logger import logging
 
-
-with open(r'C:\Users\Ubiquify Digital\Desktop\Projects\genai\mcqgen\response.json', 'r') as file:
+response_file_path = os.path.join('mcqgen', 'response.json')
+with open(response_file_path, 'r') as file:
   RESPONSE_JSON=json.load(file)
   
   # creating a title for stream
